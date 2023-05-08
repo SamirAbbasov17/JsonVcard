@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\Code Acadamy\MainJsonProgram\MainJsonProgram\bin\Debug\net7.0\MainJsonProgram.exe
+C:\Users\Lenovo\Desktop\Code Acadamy\MainJsonProgram\MainJsonProgram\bin\Debug\net7.0\MainJsonProgram.deps.json
+C:\Users\Lenovo\Desktop\Code Acadamy\MainJsonProgram\MainJsonProgram\bin\Debug\net7.0\MainJsonProgram.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Code Acadamy\MainJsonProgram\MainJsonProgram\bin\Debug\net7.0\MainJsonProgram.dll
+C:\Users\Lenovo\Desktop\Code Acadamy\MainJsonProgram\MainJsonProgram\bin\Debug\net7.0\MainJsonProgram.pdb
+C:\Users\Lenovo\Desktop\Code Acadamy\MainJsonProgram\MainJsonProgram\obj\Debug\net7.0\MainJsonProgram.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Code Acadamy\MainJsonProgram\MainJsonProgram\obj\Debug\net7.0\MainJsonProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Code Acadamy\MainJsonProgram\MainJsonProgram\obj\Debug\net7.0\MainJsonProgram.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Code Acadamy\MainJsonProgram\MainJsonProgram\obj\Debug\net7.0\MainJsonProgram.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Code Acadamy\MainJsonProgram\MainJsonProgram\obj\Debug\net7.0\MainJsonProgram.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Code Acadamy\MainJsonProgram\MainJsonProgram\obj\Debug\net7.0\MainJsonProgram.dll
+C:\Users\Lenovo\Desktop\Code Acadamy\MainJsonProgram\MainJsonProgram\obj\Debug\net7.0\refint\MainJsonProgram.dll
+C:\Users\Lenovo\Desktop\Code Acadamy\MainJsonProgram\MainJsonProgram\obj\Debug\net7.0\MainJsonProgram.pdb
+C:\Users\Lenovo\Desktop\Code Acadamy\MainJsonProgram\MainJsonProgram\obj\Debug\net7.0\MainJsonProgram.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Code Acadamy\MainJsonProgram\MainJsonProgram\obj\Debug\net7.0\ref\MainJsonProgram.dll
+C:\Users\Lenovo\Desktop\Code Acadamy\MainJsonProgram\MainJsonProgram\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\Code Acadamy\MainJsonProgram\MainJsonProgram\obj\Debug\net7.0\MainJsonProgram.csproj.CopyComplete
